@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Devendra Pillay</h1>
 <h3 align="center">A passionate Shell Scripter who's more into kernel Development</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*q1UYeeyd_CfAwVtTwzswrw.gif"
 
-- 🔭 I’m currently working on **Integration and management of web servers**
+- 🔭 I’m currently working on **Dotfiles Management**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Understanding of Kernal Development**
 
-- 👯 I’m looking to collaborate on **Game Development**
+- 👯 I’m looking to collaborate on **Bash Game Development**
 
-- 🤝 I’m looking for help with **Automated performance benchmarking**
+- 🤝 I’m looking for help with **None**
 
-- 💬 Ask me about **Telecom**
+- 💬 Ask me about **Online Charging System (OCS), Prepay Systems, Payments, Billing, Voice/Data/SMS Simulators, Rating and Charging**
 
 - 📫 How to reach me **pillaydevendra3@gmail.com**
 
-- ⚡ Fun fact **Funny!**
+- ⚡ Fun fact **"I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu) for 386(486) AT clones."  
+— *Linus Torvalds*, 1991**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
