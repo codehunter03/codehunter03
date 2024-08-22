@@ -1,5 +1,6 @@
-![Header](.[/https://github.com/codehunter03/GITHub/blob/main/github-header-image.png])
-<h1 align="center">Hi 👋, I'm Devendra Pillay</h1>
+![github-header-image](https://github.com/user-attachments/assets/be729caf-8ad9-4555-a774-5b9133ebe2bc)
+
+<h1 align="center">_**Hi👋, I'm Devendra Pillay**_</h1>
 <h3 align="center">A passionate Shell Scripter who's more into kernel Development</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif"
 "
