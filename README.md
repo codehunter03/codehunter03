@@ -28,7 +28,7 @@
 <h4 align="center">let's Connect 😊</h4>
 <p align="Center">
 <a href="https://instagram.com/36_ghz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="36_ghz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devendra pillay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra pillay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devendra-pillay-812865157/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devendra pillay" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/devendra pillay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="devendra pillay" height="30" width="40" /></a>
 </p>
 
