@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Dotfiles Management**
 
-- 🌱 I’m currently learning **Understanding of Kernal Development**
+- 🌱 I’m currently learning **Understanding of Kernel Development**
 
 - 👯 I’m looking to collaborate on **Bash Game Development**
 
